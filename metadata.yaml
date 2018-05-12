@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32710'
     url: http://www.gutenberg.org/2009/agents/32710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27476#The-Sign-of-the-Spider
 gutenberg_issued: '2008-12-10'
 gutenberg_type: Text
 identifiers:
